@@ -1,0 +1,54 @@
+/*   	<link rel="stylesheet" type="text/css" href="style.css">  */
+
+body {
+    padding: 10px 60px;
+}
+
+h1 {
+	margin-left: 50px;
+	text-align: center;
+}
+
+p {
+	font-size: 15pt;
+	padding: 5px 15px;
+}
+
+ol {
+	list-style-type: decimal;
+	padding: 30px;
+	font-size: 14pt;
+}
+
+a:link {
+	color: red;
+	background-color: lightyellow;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+a:hover {
+	color: hotpink;
+	background-color: lightyellow;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+a:visited {
+	color: blue;
+	background-color: lightyellow;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 12pt;
+    border-radius: 8px;
+}
